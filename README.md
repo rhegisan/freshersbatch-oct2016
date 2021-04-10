@@ -1,1 +1,1 @@
-# freshersbatch-oct2016
+# This repository is created for Assignment purpose.
